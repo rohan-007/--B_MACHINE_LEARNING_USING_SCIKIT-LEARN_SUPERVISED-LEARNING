@@ -6,3 +6,5 @@ NOTE:
 3---> In Multi-Varient as num of features increases the over-fitting increases. Therefor try to reduce the number of features in Multi-           Varient to prevent over-fitting.
       * If Num of features is 2,Then we can plot 3d [ Plane / Hyperplane ].
       * If Num of features is>2,Then we can plot any graph Bcoz at max in Math we have 3D graphs only.
+      
+Therefor in this example i used 3 features ,Hence no plot...
