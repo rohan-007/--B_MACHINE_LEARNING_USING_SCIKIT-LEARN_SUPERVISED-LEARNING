@@ -1,1 +1,4 @@
 MULTI-VARIATE _ CLASSIFICATION-PROBLEM _ USING-KNN-ALGO
+
+![Figure 2020-06-03 062422](https://user-images.githubusercontent.com/61268484/83832797-6e4ac600-a675-11ea-9c61-73bb9482e590.png)
+
