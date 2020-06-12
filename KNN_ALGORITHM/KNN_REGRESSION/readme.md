@@ -4,4 +4,7 @@
 
 ![download](https://user-images.githubusercontent.com/61268484/84501248-231a4f80-ac41-11ea-973c-df599e809ac9.png)
 
+Here K valuse is increasing from top to bottom.
+As K value increases the model complexity { overfitting } decreases.
+
 
